@@ -23,7 +23,7 @@ Built a functional chatbot using **Amazon Lex** — AWS’s fully managed conver
 ![Chatbot Demo 5](screenshots/chatbot_24.png)
 
 ## 📄 Full Project Report
-[📥 Download Project Document](Project Report.docx)
+[📥 Download Project Document](Project%Report.docx)
 
 ## Key Learnings
 - Designed conversation flows and user interactions
